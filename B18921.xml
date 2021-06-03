@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties alarum for open war declared by his setting up his standard at Dunsmare-heath also his affront at the city of Coventry by denying him entrance into the city : and his resolution thereupon to plant ordnance against it and batter down the city and all other cities</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18921</idno><idno type="EEBO-CITATION">12272444</idno>
+  <idno type="VID">197545</idno>
+  <idno type="EEBO-PROQUEST">2240973899</idno>
+  
+            <idno type="STC">Wing C2086</idno>
+            <idno type="OCLC">12272444</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197545)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E114, no 10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties alarum for open war declared by his setting up his standard at Dunsmare-heath also his affront at the city of Coventry by denying him entrance into the city : and his resolution thereupon to plant ordnance against it and batter down the city and all other cities</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Richard,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 25, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A pro-Parliamentary news summary.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197545:1"/>
+            <pb facs="tcp:197545:1"/>
+            <p>THE KINGS MAIESTIES ALARUM For OPEN WAR, Declared by His setting up His Standard at <hi>Dunsmare-Heath.</hi>
+            </p>
+            <p>
+               <hi>ALSO</hi> His affront at the City of <hi>Coventry,</hi> by denying Him entrance into the City, and His Resoluti<g ref="char:EOLhyphen"/>on thereupon, to plant Ordnance against it, and batter down the City, and all other Cities and Townes that shall deny His admittance.</p>
+            <p>
+               <hi>AND</hi> His command to all His subiects on the North side of <hi>Trent,</hi> or 20. miles Southward thereof, to attend His Person on the 24. of this moneth His Maiesties Army already consisting of 11000. Foot, and 6000. Horse, with 46. pieces of Ordnan<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <p>Joh. Brown, Cler. Parl.</p>
+            <p>Printed for <hi>Tho. Richards. August</hi> 25. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197545:2"/>
+            <pb n="1" facs="tcp:197545:2"/>
+            <head>
+               <hi>THE</hi> KINGS MAJESTIES ALARUM To open Warre, Declared by his setting up his Standard at <hi>Dunsmore-Heath.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T doth now most e<g ref="char:EOLhyphen"/>vidently appear what were the intents of the malignant party when they carried the King from the Parliament to <hi>York,</hi> and there possest him with a hatred of it, as his Maiesties Declarations have in bitter words upon all oc<g ref="char:EOLhyphen"/>casions testified; inveighing against all the pro<g ref="char:EOLhyphen"/>ceedings of Parliament, drawing away the Members, commanding them to come to <hi>York,</hi> and instead of discharging their duty and con<g ref="char:EOLhyphen"/>sciences in the service of the Parliament, to contribute their advice and assistance to the
+<pb n="2" facs="tcp:197545:3"/>destruction of it, endeavouring to possesse the people, that the Parliament would take away the Law, and introduce an Arbitrary Govern<g ref="char:EOLhyphen"/>ment; and hereupon men were levied by the counsell of the Malignant Party of the King<g ref="char:EOLhyphen"/>dom, and an Army raised to ruine the Parli<g ref="char:EOLhyphen"/>ament, then through the instigation of these malignants the King besieged <hi>Hull,</hi> and after<g ref="char:EOLhyphen"/>ward issued out the illegall Commission of Ar<g ref="char:EOLhyphen"/>ray, which having been endeavoured to be put in execution, hath bred all the uproares and disturbances in most of the Counties of this Kingdome: and the Kings Maiesty being op<g ref="char:EOLhyphen"/>posed therein by those who with constant affe<g ref="char:EOLhyphen"/>ctions do stand for the Parliament and the Pri<g ref="char:EOLhyphen"/>viledges of the Subiect, is provoked and incen<g ref="char:EOLhyphen"/>sed unto such high indignation, as also by his affront received from Sir <hi>Iohn Hotham</hi> by de<g ref="char:EOLhyphen"/>nying him entrance into <hi>Hull,</hi> that he is resol<g ref="char:EOLhyphen"/>ved to turne this land, which was a Canaan, flowing with milk and honey, into a red sea of blood and destruction, to make his subiects turn the edge of the sword one against the o<g ref="char:EOLhyphen"/>ther, one friend to slaughter another, and such a bloudy confusion by a civill warre in <hi>England,</hi> as there hath been formerly by the bloudy re<g ref="char:EOLhyphen"/>bellion in <hi>Ireland:</hi> for how can it be other<g ref="char:EOLhyphen"/>wise, when the King by the advise of his ma<g ref="char:EOLhyphen"/>lignant counsellours doth raise an army against his great Counsell of the Parliament, and doth
+<pb n="3" facs="tcp:197545:3"/>constraine and inforce many of his loving Sub<g ref="char:EOLhyphen"/>iects by compulsion and violence to yeeld to the illegall Commission of Array: and now having br<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ug<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t matters to a ripenesse, that the harvest of contention and dissention may be reaped by the bloudy suckles of swords, His Maiesty our of the high indignation of his sup<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sed iniuries, being full and confident in his owne cause, hath with eleven thousand men strongly besieged the City of <hi>Coventry,</hi> and environed them so strongly, that there is no way possible for them to escape, unlesse that they betimes allay the indignation of the Kings d<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>signes, which are hitherto so violent, that he intends to make their City the obiect of the thundring Canon, and that their houses shall be beaten downe about their eares for their op<g ref="char:EOLhyphen"/>posing of his Maiesty, in refusing to give him admittance into their City. With these and such like comminations and threatnings the people are much di<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eartened and affrighted, and to increase their feares, together with the whole Kingdomes, the Kings Maiesty hath commanded all his subiects on the North side of Trent, and all places adioyning within twenty miles Southward thereof, on the ob<g ref="char:EOLhyphen"/>ligation of their allegiance, to attend his Royall Person upon Munday being the two and twentieth day of this moneth of <hi>August,</hi> at <hi>Dunsmore-Heath,</hi> where his Maiesty intends
+<pb n="4" facs="tcp:197545:4"/>to erect his Standard Royall, being a great Colours or Ensigne richly adorned with the Kings Armes and Motto therein displayed. His Majesties Army Royall makes a great, da<g ref="char:EOLhyphen"/>ring, and illustrious show, consisting of eleven thousand Foot, and six thousand Horse, all in complete Armour: and moreover he hath six and forty peeces of Ordnance. Thus being stored of Ammunition, and backed by his evil Counsellours and Papists, he intends to make an expatiating diffusive warre, not fixing upon a maine Battalio, but to besiege and batter down Cities and Townes that will not resigne up themselves upon summons: so that his Maie<g ref="char:EOLhyphen"/>sty is fully resolved to t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie out the cause betwixt his Parliament and Himselfe by the Sword. These matters therefore being of high co<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se<g ref="char:EOLhyphen"/>quence, and considerable in the minds of all true subiects, let them take courage, and shew their resolutions now to oppose the malignity of evill Counsellours, to defend the King and Parliament, and to relieve the distressed city of <hi>Coventry.</hi>
+            </p>
+            <p>The City of <hi>Chichester</hi> stands now in a good posture of defence, and have declared their Re<g ref="char:EOLhyphen"/>solution to the Parliament, being resolved to adventure both their lives and fortunes for the defence and maintenance of the true Protestant Religion, the Lawes of the Land, the Privi<g ref="char:EOLhyphen"/>ledges of Parliament, and Liberty of the Sub<g ref="char:EOLhyphen"/>iect,
+<pb n="5" facs="tcp:197545:4"/>against any that shall oppose it: yet some ill-affected persons have plotted to betray the Towne, and some Ministers have made sedi<g ref="char:EOLhyphen"/>tious Sermons to that purpose. For the pre<g ref="char:EOLhyphen"/>vention of these and other disorders, and to prevent the danger that may arise by the mali<g ref="char:EOLhyphen"/>gnity of the Popish party, The Lords and Commons do declare, That it shalbe lawfull for any of his Maiesties Subiects to disarme all Popish Recusants, and such as shall execute the illegall Commission of Array, or shalbe actors and assistants in any of the aforementioned op<g ref="char:EOLhyphen"/>pressions and violences, or shall furnish any Horse, Armes, Money, or other aid or contri<g ref="char:EOLhyphen"/>bution for the maintenance of this unnaturall Warre raised by his Maiesty against his Parlia<g ref="char:EOLhyphen"/>ment: and to seize upon their Horses, Armes, Money and other Provisions, whereby they might be inabled to disturb the Peace of the Kingdome.</p>
+            <closer>
+               <hi>Ordered to be forthwith printed &amp; published,</hi>
+               <signed>Joh. Brown Cleric. Parliament.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
